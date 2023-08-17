@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Verma
 - 👀 I’m interested in
 - 🌱 I’m currently learning Machine Learning, Web development
-- 😎 I know C++, Java , JavaScript, Flask, MERN
+- 😎 I know C++, Java , JavaScript, Flask, ReactJS, NodeJS
 - 📫 How to reach me : gauravvermaa07076@gmail.com
 - [![@gaurav_07076's Holopin board](https://holopin.me/gaurav_07076)](https://holopin.io/@gaurav_07076)
 

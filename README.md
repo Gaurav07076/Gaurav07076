@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning Machine Learning, Web development
 - 😎 I know C++, Java , JavaScript, Flask, ReactJS, NodeJS
 - 📫 How to reach me : gauravvermaa07076@gmail.com
+
+  ![](https://komarev.com/ghpvc/?username=gaurav07076&color=green)
+  
 - [![@gaurav_07076's Holopin board](https://holopin.me/gaurav_07076)](https://holopin.io/@gaurav_07076)
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

@@ -8,7 +8,7 @@
   
 - [![@gaurav_07076's Holopin board](https://holopin.me/gaurav_07076)](https://holopin.io/@gaurav_07076)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaurav07076)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav07076&show_icons=true&theme=radical" />
